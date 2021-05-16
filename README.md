@@ -34,5 +34,13 @@ When value entered is greater than 144.
 
 When value entered is negative.
 
+# Plugins
+
+1. axios
+
+# Library 
+
+1. React
+
 
 

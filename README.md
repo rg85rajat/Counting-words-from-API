@@ -1,5 +1,7 @@
 # Invictus Hiring Assessment
 
+# Code Components
+
 ![Capture](https://user-images.githubusercontent.com/72291911/118399374-7c250b80-b67a-11eb-9fc0-ad05836f8098.JPG)
 
 Fetching the contents from API using axios.
@@ -7,6 +9,8 @@ Fetching the contents from API using axios.
 ![Capture 1](https://user-images.githubusercontent.com/72291911/118399635-ba6efa80-b67b-11eb-9623-aeefbaae8f95.JPG)
 
 if number entered input field is empty, exceeding value or negative
+
+# Output
 
 ![Capture3](https://user-images.githubusercontent.com/72291911/118400113-e8553e80-b67d-11eb-8cae-9a4b07db4f73.JPG)
 

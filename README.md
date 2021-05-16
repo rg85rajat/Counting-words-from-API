@@ -1,5 +1,4 @@
-# invictus
-A Reactjs front end which accepts a number input N with a Submit button
+# Invictus Hiring Assessment
 
 ![Capture](https://user-images.githubusercontent.com/72291911/118399374-7c250b80-b67a-11eb-9fc0-ad05836f8098.JPG)
 

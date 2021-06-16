@@ -1,4 +1,4 @@
-# Invictus Hiring Assessment
+# Counting words from paragraph
 
 # Hosted on: https://rginvictus.herokuapp.com/
 
